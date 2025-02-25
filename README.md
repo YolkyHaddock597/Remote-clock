@@ -1,9 +1,9 @@
 # Remote-clock
 Remote control analog clock for plays and musicals.
 
-# TO Do
--add an encoder for increased accuracy
--Impliment LORA and a wireless remote to replace wifi
+# TO DO
+-add an encoder for increased accuracy\n
+-Impliment LORA and a wireless remote to replace wifi\n
 
 ![clock](https://github.com/user-attachments/assets/53f6aedb-ef86-4e6d-bc28-c179adbcb913)
 
